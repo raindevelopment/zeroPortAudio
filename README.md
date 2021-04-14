@@ -1,6 +1,8 @@
-# PortAudio - portable audio I/O library
+# 0PortAudio - portable audio I/O library
 
-PortAudio is a portable audio I/O library designed for cross-platform
+0PortAudio is rain Creative Studio's version of PortAudio! (with a special 3d math library and more!)
+
+0PortAudio is a portable audio I/O library designed for cross-platform
 support of audio. It uses either a callback mechanism to request audio 
 processing, or blocking read/write calls to buffer data between the 
 native audio subsystem and the client. Audio can be processed in various 
